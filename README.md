@@ -139,4 +139,3 @@ Room Occupancy: 0 (No), People: 0, Temp: 27.0°C, Humidity: 58%, Time Occupied: 
 
 ---
 
-Now the README clearly specifies that you're using **Jupyter Notebook** instead of standalone Python scripts. Let me know if you need any modifications! 🚀
